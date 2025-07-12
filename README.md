@@ -126,7 +126,7 @@ print("Token soni:", len(sp.encode(text)))
 
 ---
 
-## 📊 Token Calculatorlar
+## Token Calculatorlar
 
 * [OpenAI Tokenizer Tool](https://platform.openai.com/tokenizer)
 * Hugging Face Playground
